@@ -1,6 +1,6 @@
 # Generic-Notification-module
 Project is generic notification module that has independent platform interface, 
-module can integrate with another systems in order to send notification.
+module can integrate with another systems in order to send notification on four channels (sms - email - browser popup - android) 
 
 
 # technologies
